@@ -1,0 +1,587 @@
+[14-Jun-2016 14:28:22 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[14-Jun-2016 14:28:22 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[14-Jun-2016 14:28:22 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[14-Jun-2016 14:28:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[14-Jun-2016 14:28:23 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[14-Jun-2016 14:28:23 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[14-Jun-2016 14:28:23 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[14-Jun-2016 14:28:23 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[14-Jun-2016 14:28:23 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[14-Jun-2016 14:28:23 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[14-Jun-2016 14:28:23 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[14-Jun-2016 14:28:23 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[14-Jun-2016 14:28:23 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[15-Jun-2016 00:18:02 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[15-Jun-2016 00:18:02 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[15-Jun-2016 00:18:02 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[15-Jun-2016 00:18:02 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[15-Jun-2016 00:18:03 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[15-Jun-2016 00:18:03 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[15-Jun-2016 00:18:03 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[15-Jun-2016 00:18:03 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[15-Jun-2016 00:18:03 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[15-Jun-2016 00:18:03 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[15-Jun-2016 00:18:03 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[15-Jun-2016 00:18:03 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[15-Jun-2016 07:28:34 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[15-Jun-2016 07:28:34 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[15-Jun-2016 07:28:34 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[15-Jun-2016 07:28:34 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[15-Jun-2016 07:28:34 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[15-Jun-2016 07:28:34 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[15-Jun-2016 07:28:34 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[15-Jun-2016 07:28:34 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[15-Jun-2016 07:28:34 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[15-Jun-2016 07:28:34 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[15-Jun-2016 07:28:34 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[15-Jun-2016 07:28:34 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[15-Jun-2016 21:30:16 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[15-Jun-2016 21:30:16 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[15-Jun-2016 21:30:16 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[15-Jun-2016 21:30:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[15-Jun-2016 21:30:17 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[15-Jun-2016 21:30:17 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[15-Jun-2016 21:30:17 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[15-Jun-2016 21:30:17 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[15-Jun-2016 21:30:17 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[15-Jun-2016 21:30:17 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[15-Jun-2016 21:30:17 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[15-Jun-2016 21:30:17 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[15-Jun-2016 21:30:17 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[17-Jun-2016 08:19:31 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[17-Jun-2016 08:19:31 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[17-Jun-2016 08:19:31 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[17-Jun-2016 08:19:31 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[17-Jun-2016 08:19:31 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[17-Jun-2016 08:19:31 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[17-Jun-2016 08:19:31 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[17-Jun-2016 08:19:31 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[17-Jun-2016 08:19:31 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[17-Jun-2016 08:19:31 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[17-Jun-2016 08:19:31 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[17-Jun-2016 08:19:31 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[20-Jun-2016 07:21:48 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[20-Jun-2016 07:21:48 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[20-Jun-2016 07:21:48 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[20-Jun-2016 07:21:48 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[20-Jun-2016 07:21:48 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[20-Jun-2016 07:21:48 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[20-Jun-2016 07:21:48 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[20-Jun-2016 07:21:48 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[20-Jun-2016 07:21:48 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[20-Jun-2016 07:21:48 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[20-Jun-2016 07:21:48 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[20-Jun-2016 16:46:16 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[20-Jun-2016 16:46:16 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[20-Jun-2016 16:46:16 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[20-Jun-2016 16:46:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[20-Jun-2016 16:46:16 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[20-Jun-2016 16:46:16 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[20-Jun-2016 16:46:16 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[20-Jun-2016 16:46:16 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[20-Jun-2016 16:46:16 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[20-Jun-2016 16:46:16 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[20-Jun-2016 16:46:16 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[21-Jun-2016 06:32:03 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[21-Jun-2016 06:32:03 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[21-Jun-2016 06:32:03 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[21-Jun-2016 06:32:03 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[21-Jun-2016 06:32:04 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[21-Jun-2016 06:32:04 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[21-Jun-2016 06:32:04 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[21-Jun-2016 06:32:04 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[21-Jun-2016 06:32:04 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[21-Jun-2016 06:32:04 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[21-Jun-2016 10:02:22 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[21-Jun-2016 10:02:22 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[21-Jun-2016 10:02:22 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[21-Jun-2016 10:02:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[21-Jun-2016 10:02:22 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[21-Jun-2016 10:02:22 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[21-Jun-2016 10:02:22 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[21-Jun-2016 10:02:22 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[21-Jun-2016 10:02:22 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[21-Jun-2016 10:02:22 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[21-Jun-2016 12:13:49 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[21-Jun-2016 12:13:49 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[21-Jun-2016 12:13:49 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[21-Jun-2016 12:13:49 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[21-Jun-2016 12:13:49 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[21-Jun-2016 12:13:49 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[21-Jun-2016 12:13:49 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[21-Jun-2016 12:13:49 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[21-Jun-2016 12:13:49 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[21-Jun-2016 12:13:49 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[21-Jun-2016 12:13:49 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[22-Jun-2016 13:06:31 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[22-Jun-2016 13:06:31 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[22-Jun-2016 13:06:31 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[22-Jun-2016 13:06:31 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[22-Jun-2016 13:06:31 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[22-Jun-2016 13:06:31 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[22-Jun-2016 13:06:31 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[22-Jun-2016 13:06:31 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[22-Jun-2016 13:06:31 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[22-Jun-2016 13:06:31 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[22-Jun-2016 13:06:31 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[28-Jun-2016 11:52:06 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[28-Jun-2016 11:52:07 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[29-Jun-2016 13:25:07 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[29-Jun-2016 13:25:07 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[29-Jun-2016 15:52:42 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[29-Jun-2016 15:52:42 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[29-Jun-2016 15:57:04 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[29-Jun-2016 15:57:04 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[29-Jun-2016 15:57:04 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[29-Jun-2016 15:57:04 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[29-Jun-2016 15:57:05 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[29-Jun-2016 15:57:05 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[29-Jun-2016 15:57:05 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[29-Jun-2016 15:57:05 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[29-Jun-2016 15:57:05 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[29-Jun-2016 15:57:05 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[29-Jun-2016 15:57:05 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[29-Jun-2016 15:57:05 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[29-Jun-2016 23:29:02 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[29-Jun-2016 23:29:02 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[29-Jun-2016 23:29:02 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[29-Jun-2016 23:29:02 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[29-Jun-2016 23:29:02 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[29-Jun-2016 23:29:02 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[29-Jun-2016 23:29:02 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[29-Jun-2016 23:29:02 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[29-Jun-2016 23:29:02 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[29-Jun-2016 23:29:02 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[29-Jun-2016 23:29:02 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[29-Jun-2016 23:29:02 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[30-Jun-2016 00:46:55 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[30-Jun-2016 00:46:55 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[30-Jun-2016 00:46:55 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[30-Jun-2016 00:46:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[30-Jun-2016 00:46:56 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[30-Jun-2016 00:46:56 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[30-Jun-2016 00:46:56 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[30-Jun-2016 00:46:56 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[30-Jun-2016 00:46:56 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[30-Jun-2016 00:46:56 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[30-Jun-2016 00:46:56 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[30-Jun-2016 01:01:11 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[30-Jun-2016 01:01:11 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[30-Jun-2016 01:01:11 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[30-Jun-2016 01:01:11 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[30-Jun-2016 01:01:11 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[30-Jun-2016 01:01:11 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[30-Jun-2016 01:01:11 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[30-Jun-2016 01:01:11 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[30-Jun-2016 01:01:11 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[30-Jun-2016 01:01:11 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[30-Jun-2016 01:01:11 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[30-Jun-2016 07:53:10 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[30-Jun-2016 07:53:10 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[30-Jun-2016 07:53:10 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[30-Jun-2016 07:53:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[30-Jun-2016 07:53:10 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[30-Jun-2016 07:53:10 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[30-Jun-2016 07:53:10 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[30-Jun-2016 07:53:10 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[30-Jun-2016 07:53:10 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[30-Jun-2016 07:53:10 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[30-Jun-2016 07:53:10 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[30-Jun-2016 08:14:35 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[30-Jun-2016 08:14:35 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[30-Jun-2016 08:14:35 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[30-Jun-2016 08:14:35 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[30-Jun-2016 08:14:36 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[30-Jun-2016 08:14:36 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[30-Jun-2016 08:14:36 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[30-Jun-2016 08:14:36 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[30-Jun-2016 08:14:36 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[30-Jun-2016 08:14:36 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[30-Jun-2016 08:14:36 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[30-Jun-2016 14:36:24 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[30-Jun-2016 14:36:24 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[30-Jun-2016 14:36:24 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[30-Jun-2016 14:36:24 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[30-Jun-2016 14:36:24 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[30-Jun-2016 14:36:24 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[30-Jun-2016 14:36:24 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[30-Jun-2016 14:36:24 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[30-Jun-2016 14:36:24 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[30-Jun-2016 14:36:24 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[30-Jun-2016 14:36:24 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[30-Jun-2016 14:36:24 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[01-Jul-2016 13:02:01 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[01-Jul-2016 13:02:01 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[10-Jul-2016 12:21:47 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[10-Jul-2016 12:21:49 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[10-Jul-2016 21:26:47 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[10-Jul-2016 21:26:47 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[10-Jul-2016 21:26:47 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[10-Jul-2016 21:26:47 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[10-Jul-2016 21:26:47 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[10-Jul-2016 21:26:47 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[10-Jul-2016 21:26:47 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[10-Jul-2016 21:26:47 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[10-Jul-2016 21:26:47 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[10-Jul-2016 21:26:47 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[10-Jul-2016 21:26:47 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[10-Jul-2016 21:26:47 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[10-Jul-2016 21:26:47 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[11-Jul-2016 10:14:46 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[11-Jul-2016 10:14:46 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[11-Jul-2016 10:14:46 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[11-Jul-2016 10:14:46 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[11-Jul-2016 10:14:46 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[11-Jul-2016 10:14:46 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[11-Jul-2016 10:14:46 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[11-Jul-2016 10:14:46 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[11-Jul-2016 10:14:46 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[11-Jul-2016 10:14:46 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[11-Jul-2016 10:14:46 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[11-Jul-2016 10:14:46 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[14-Jul-2016 12:01:58 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[14-Jul-2016 12:01:59 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[14-Jul-2016 12:03:26 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[14-Jul-2016 12:03:27 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[18-Jul-2016 11:26:21 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[18-Jul-2016 11:26:21 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[18-Jul-2016 11:26:21 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[18-Jul-2016 11:26:21 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[18-Jul-2016 11:26:21 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[18-Jul-2016 11:26:21 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[18-Jul-2016 11:26:21 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[18-Jul-2016 11:26:21 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[18-Jul-2016 11:26:21 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[18-Jul-2016 11:26:21 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[18-Jul-2016 11:26:21 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[18-Jul-2016 11:26:21 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[20-Jul-2016 08:52:18 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[20-Jul-2016 08:52:18 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[20-Jul-2016 08:52:18 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[20-Jul-2016 08:52:18 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[20-Jul-2016 08:52:18 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[20-Jul-2016 08:52:18 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[20-Jul-2016 08:52:18 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[20-Jul-2016 08:52:18 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[20-Jul-2016 08:52:18 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[20-Jul-2016 08:52:18 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[20-Jul-2016 08:52:18 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[27-Jul-2016 22:22:09 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[27-Jul-2016 22:22:09 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[27-Jul-2016 22:22:09 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[27-Jul-2016 22:22:09 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[27-Jul-2016 22:22:09 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[27-Jul-2016 22:22:09 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[27-Jul-2016 22:22:09 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[27-Jul-2016 22:22:09 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[27-Jul-2016 22:22:09 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[27-Jul-2016 22:22:09 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[27-Jul-2016 22:22:09 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[27-Jul-2016 22:22:09 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[07-Aug-2016 04:22:04 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Aug-2016 04:22:04 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Aug-2016 04:22:50 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Aug-2016 04:22:50 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Aug-2016 12:13:56 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Aug-2016 12:13:57 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Aug-2016 12:14:48 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Aug-2016 12:14:48 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Aug-2016 19:39:23 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Aug-2016 19:39:23 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Aug-2016 21:43:15 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Aug-2016 21:43:15 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[08-Aug-2016 03:40:59 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[08-Aug-2016 03:40:59 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[08-Aug-2016 03:41:36 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[08-Aug-2016 03:41:36 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[08-Aug-2016 08:40:54 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[08-Aug-2016 08:40:54 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[08-Aug-2016 08:40:54 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[08-Aug-2016 08:40:54 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[08-Aug-2016 08:40:54 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[08-Aug-2016 08:40:54 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[08-Aug-2016 08:40:54 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[08-Aug-2016 08:40:54 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[08-Aug-2016 08:40:54 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[08-Aug-2016 08:40:54 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[08-Aug-2016 08:40:54 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[08-Aug-2016 08:40:54 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[08-Aug-2016 08:40:54 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[08-Aug-2016 17:36:51 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[08-Aug-2016 17:36:51 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[08-Aug-2016 17:37:06 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[08-Aug-2016 17:37:06 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[08-Aug-2016 17:37:22 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[08-Aug-2016 17:37:22 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[08-Aug-2016 17:37:27 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[08-Aug-2016 17:37:27 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[08-Aug-2016 17:37:31 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[08-Aug-2016 17:37:31 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[09-Aug-2016 01:46:43 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[09-Aug-2016 01:46:43 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[09-Aug-2016 12:21:03 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[09-Aug-2016 12:21:03 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[14-Aug-2016 02:17:24 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[14-Aug-2016 02:17:24 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[01-Sep-2016 17:15:02 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[01-Sep-2016 17:15:02 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[01-Sep-2016 17:15:02 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[01-Sep-2016 17:15:02 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[01-Sep-2016 17:15:02 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[01-Sep-2016 17:15:02 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[01-Sep-2016 17:15:02 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[01-Sep-2016 17:15:02 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[01-Sep-2016 17:15:02 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[01-Sep-2016 17:15:02 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[01-Sep-2016 17:15:02 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[01-Sep-2016 17:15:02 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[01-Sep-2016 17:15:02 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[05-Sep-2016 13:15:07 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[05-Sep-2016 13:15:07 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[05-Sep-2016 13:15:07 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[05-Sep-2016 13:15:07 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[05-Sep-2016 13:15:07 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[05-Sep-2016 13:15:07 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[05-Sep-2016 13:15:07 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[05-Sep-2016 13:15:07 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[05-Sep-2016 13:15:07 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[05-Sep-2016 13:15:07 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[05-Sep-2016 13:15:07 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[07-Sep-2016 04:01:14 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Sep-2016 04:01:14 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Sep-2016 04:01:14 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[07-Sep-2016 04:01:14 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[07-Sep-2016 04:01:14 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[07-Sep-2016 04:01:14 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[07-Sep-2016 04:01:14 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[07-Sep-2016 04:01:14 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[07-Sep-2016 04:01:14 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[07-Sep-2016 04:01:14 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[07-Sep-2016 04:01:14 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[07-Sep-2016 04:01:14 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[07-Sep-2016 04:01:14 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[07-Sep-2016 04:12:23 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Sep-2016 04:12:23 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Sep-2016 04:12:23 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[07-Sep-2016 04:12:23 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[07-Sep-2016 04:12:23 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[07-Sep-2016 04:12:23 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[07-Sep-2016 04:12:23 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[07-Sep-2016 04:12:23 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[07-Sep-2016 04:12:23 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[07-Sep-2016 04:12:23 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[07-Sep-2016 04:12:23 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[07-Sep-2016 04:12:23 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[07-Sep-2016 04:12:23 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[07-Sep-2016 04:14:19 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Sep-2016 04:14:19 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Sep-2016 04:14:19 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[07-Sep-2016 04:14:19 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[07-Sep-2016 04:14:19 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[07-Sep-2016 04:14:19 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[07-Sep-2016 04:14:19 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[07-Sep-2016 04:14:19 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[07-Sep-2016 04:14:19 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[07-Sep-2016 04:14:19 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[07-Sep-2016 04:14:19 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[07-Sep-2016 04:14:19 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[07-Sep-2016 04:14:19 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[07-Sep-2016 04:18:46 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Sep-2016 04:18:46 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Sep-2016 04:18:46 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[07-Sep-2016 04:18:46 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[07-Sep-2016 04:18:47 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[07-Sep-2016 04:18:47 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[07-Sep-2016 04:18:47 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[07-Sep-2016 04:18:47 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[07-Sep-2016 04:18:47 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[07-Sep-2016 04:18:47 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[07-Sep-2016 04:18:47 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[07-Sep-2016 04:18:47 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[07-Sep-2016 04:18:47 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[07-Sep-2016 04:24:42 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Sep-2016 04:24:42 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Sep-2016 04:24:42 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[07-Sep-2016 04:24:42 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[07-Sep-2016 04:24:42 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[07-Sep-2016 04:24:42 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[07-Sep-2016 04:24:42 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[07-Sep-2016 04:24:42 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[07-Sep-2016 04:24:42 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[07-Sep-2016 04:24:42 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[07-Sep-2016 04:24:42 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[07-Sep-2016 04:24:42 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[07-Sep-2016 04:24:42 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[07-Sep-2016 04:27:33 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Sep-2016 04:27:33 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Sep-2016 04:27:33 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[07-Sep-2016 04:27:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[07-Sep-2016 04:27:33 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[07-Sep-2016 04:27:33 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[07-Sep-2016 04:27:33 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[07-Sep-2016 04:27:33 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[07-Sep-2016 04:27:33 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[07-Sep-2016 04:27:33 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[07-Sep-2016 04:27:33 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[07-Sep-2016 04:27:33 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[07-Sep-2016 04:27:33 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[07-Sep-2016 04:29:16 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Sep-2016 04:29:16 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Sep-2016 04:29:16 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[07-Sep-2016 04:29:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[07-Sep-2016 04:29:16 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[07-Sep-2016 04:29:16 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[07-Sep-2016 04:29:16 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[07-Sep-2016 04:29:16 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[07-Sep-2016 04:29:16 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[07-Sep-2016 04:29:16 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[07-Sep-2016 04:29:16 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[07-Sep-2016 04:29:16 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[07-Sep-2016 04:29:16 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[07-Sep-2016 04:34:44 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Sep-2016 04:34:44 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Sep-2016 04:34:44 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[07-Sep-2016 04:34:44 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[07-Sep-2016 04:34:44 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[07-Sep-2016 04:34:44 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[07-Sep-2016 04:34:44 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[07-Sep-2016 04:34:44 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[07-Sep-2016 04:34:44 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[07-Sep-2016 04:34:44 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[07-Sep-2016 04:34:44 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[07-Sep-2016 04:34:44 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[07-Sep-2016 04:34:44 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[07-Sep-2016 04:41:07 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Sep-2016 04:41:07 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Sep-2016 04:41:07 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[07-Sep-2016 04:41:07 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[07-Sep-2016 04:41:07 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[07-Sep-2016 04:41:07 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[07-Sep-2016 04:41:07 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[07-Sep-2016 04:41:07 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[07-Sep-2016 04:41:07 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[07-Sep-2016 04:41:07 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[07-Sep-2016 04:41:07 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[07-Sep-2016 04:41:07 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[07-Sep-2016 04:41:07 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[07-Sep-2016 04:45:32 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Sep-2016 04:45:32 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Sep-2016 04:45:32 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[07-Sep-2016 04:45:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[07-Sep-2016 04:45:33 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[07-Sep-2016 04:45:33 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[07-Sep-2016 04:45:33 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[07-Sep-2016 04:45:33 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[07-Sep-2016 04:45:33 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[07-Sep-2016 04:45:33 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[07-Sep-2016 04:45:33 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[07-Sep-2016 04:45:33 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[07-Sep-2016 04:45:33 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[07-Sep-2016 04:52:07 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Sep-2016 04:52:07 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Sep-2016 04:52:07 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[07-Sep-2016 04:52:07 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[07-Sep-2016 04:52:08 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[07-Sep-2016 04:52:08 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[07-Sep-2016 04:52:08 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[07-Sep-2016 04:52:08 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[07-Sep-2016 04:52:08 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[07-Sep-2016 04:52:08 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[07-Sep-2016 04:52:08 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[07-Sep-2016 04:52:08 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[07-Sep-2016 04:52:08 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[07-Sep-2016 04:52:29 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Sep-2016 04:52:29 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Sep-2016 04:52:29 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[07-Sep-2016 04:52:29 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[07-Sep-2016 04:52:29 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[07-Sep-2016 04:52:29 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[07-Sep-2016 04:52:29 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[07-Sep-2016 04:52:29 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[07-Sep-2016 04:52:29 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[07-Sep-2016 04:52:29 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[07-Sep-2016 04:52:29 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[07-Sep-2016 04:52:29 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[07-Sep-2016 04:52:29 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[07-Sep-2016 05:01:16 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Sep-2016 05:01:16 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Sep-2016 05:01:16 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[07-Sep-2016 05:01:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[07-Sep-2016 05:01:16 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[07-Sep-2016 05:01:16 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[07-Sep-2016 05:01:16 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[07-Sep-2016 05:01:16 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[07-Sep-2016 05:01:16 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[07-Sep-2016 05:01:16 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[07-Sep-2016 05:01:16 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[07-Sep-2016 05:01:16 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[07-Sep-2016 05:01:16 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[07-Sep-2016 06:03:25 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Sep-2016 06:03:25 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Sep-2016 06:03:25 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[07-Sep-2016 06:03:25 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[07-Sep-2016 06:03:26 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[07-Sep-2016 06:03:26 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[07-Sep-2016 06:03:26 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[07-Sep-2016 06:03:26 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[07-Sep-2016 06:03:26 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[07-Sep-2016 06:03:26 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[07-Sep-2016 06:03:26 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[07-Sep-2016 06:03:26 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[07-Sep-2016 06:03:26 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[07-Sep-2016 06:19:03 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[07-Sep-2016 06:19:03 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Sep-2016 06:19:03 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[07-Sep-2016 06:19:03 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[07-Sep-2016 06:19:03 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[07-Sep-2016 06:19:03 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[07-Sep-2016 06:19:03 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[07-Sep-2016 06:19:03 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[07-Sep-2016 06:19:03 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[07-Sep-2016 06:19:03 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[07-Sep-2016 06:19:03 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[07-Sep-2016 06:19:03 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[07-Sep-2016 06:19:03 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[07-Sep-2016 07:46:39 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[07-Sep-2016 07:46:40 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[08-Sep-2016 14:11:22 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[08-Sep-2016 14:11:22 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[08-Sep-2016 14:11:22 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[08-Sep-2016 14:11:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[08-Sep-2016 14:11:22 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[08-Sep-2016 14:11:22 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[08-Sep-2016 14:11:22 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[08-Sep-2016 14:11:22 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[08-Sep-2016 14:11:22 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[08-Sep-2016 14:11:22 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[08-Sep-2016 14:11:22 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[11-Sep-2016 17:04:51 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[11-Sep-2016 17:04:52 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[13-Sep-2016 14:39:46 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[13-Sep-2016 14:39:46 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[13-Sep-2016 14:39:46 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[13-Sep-2016 14:39:46 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[13-Sep-2016 14:39:46 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[13-Sep-2016 14:39:46 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[13-Sep-2016 14:39:46 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[13-Sep-2016 14:39:46 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[13-Sep-2016 14:39:46 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[13-Sep-2016 14:39:46 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[13-Sep-2016 14:39:46 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[13-Sep-2016 14:39:46 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[13-Sep-2016 14:39:46 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[14-Sep-2016 13:11:04 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 548
+[14-Sep-2016 13:11:04 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[14-Sep-2016 13:11:05 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 539
+[14-Sep-2016 13:11:05 UTC] PHP Deprecated:  Function split() is deprecated in /home/fvmukim/public_html/dvm2016/include/class.phpmailer.php on line 470
+[14-Sep-2016 13:11:05 UTC] PHP Notice:  Undefined index: 80e_Participants_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 91
+[14-Sep-2016 13:11:05 UTC] PHP Notice:  Undefined index: 100e_Participants_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 92
+[14-Sep-2016 13:11:05 UTC] PHP Notice:  Undefined index: 70e_Accompanying_Persons_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 94
+[14-Sep-2016 13:11:05 UTC] PHP Notice:  Undefined index: 100e_Accompanying_Persons_after_June in /home/fvmukim/public_html/dvm2016/registration.php on line 95
+[14-Sep-2016 13:11:05 UTC] PHP Notice:  Undefined index: 150e_Package_SingleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 97
+[14-Sep-2016 13:11:05 UTC] PHP Notice:  Undefined index: 180e_Package_SingleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 98
+[14-Sep-2016 13:11:05 UTC] PHP Notice:  Undefined index: 120e_Package_DoubleRoom_before_June in /home/fvmukim/public_html/dvm2016/registration.php on line 100
+[14-Sep-2016 13:11:05 UTC] PHP Notice:  Undefined index: 150e_Package_DoubleRoom_after_July in /home/fvmukim/public_html/dvm2016/registration.php on line 101
+[14-Sep-2016 13:11:05 UTC] PHP Notice:  Undefined index: 30e_Ohrid_Tour_dinner in /home/fvmukim/public_html/dvm2016/registration.php on line 103
+[16-Sep-2016 15:08:25 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
+[16-Sep-2016 15:08:27 UTC] PHP Notice:  Undefined index: message in /home/fvmukim/public_html/dvm2016/include/fgcontactform.php on line 394
